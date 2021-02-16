@@ -1,7 +1,7 @@
 # Calc-Made-By-White
 
 Made with Pure HTML AND CSS
-Coolest Calculator Ever Made By Sai!
+Coolest Calculator Ever Made By White!
 
 
 
