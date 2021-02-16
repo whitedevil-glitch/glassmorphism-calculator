@@ -1,4 +1,5 @@
-# Calc-Made-By-Sai
+# Calc-Made-By-White
+
 Made with Pure HTML AND CSS
 Coolest Calculator Ever Made By Sai!
 
