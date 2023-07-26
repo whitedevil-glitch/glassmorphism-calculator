@@ -1,8 +1,5 @@
+[my first ever project]
 
-Coolest Calculator Ever Made By White!
+Simple Glassmorphism Calculator
 
-Made with Pure HTML AND CSS
-
-
-If You want to check then download this as A ZIP! then after downloading! extract it! then double click on index.html
-Your default browser will open. Then Use and Enjoy the Calc
+live site <a href="https://aesthetic-squirrel-e4298a.netlify.app/" target=_blank>here</a>
